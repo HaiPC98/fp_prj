@@ -8,12 +8,7 @@ let Op = Sequelize.Op
 
 
 async function FetchStatistic(from, to, uid){
-    // console.log('Fetching', key, value)
-    // if(key === 'day') 
-    //     flag = 'uid'
-    // else if (key === 'uid') 
-    //     flag = 'day'   
-
+     
     flag = 'date'    
     condition = 'sdfghj'
     // condition[key] = value
